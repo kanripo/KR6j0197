@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大寶廣博樓閣善住祕密陀羅尼經
+#+DATE: 2015-08-30 20:27:41.607207
+#+PROPERTY: JUAN 0
